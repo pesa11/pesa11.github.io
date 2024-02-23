@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hwangtest.github.io/al-folio/sitemap.xml
+Sitemap: https://hwangtest.github.io/sitemap.xml
