@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications / 논문
 nav: true
 nav_order: 3
---
+---
 
 **Refereed Publications: 197 in total (4 submitted, 18 as first author, 32 as second author, and 143 as co-author)**
 
