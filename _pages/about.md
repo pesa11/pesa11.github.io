@@ -9,21 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email : galaxy79@snu.ac.kr</p>
-    <p>Address: Astronomy Program, Department of Physics and Astronomy,
-       Seoul National University, 1 Gwanak-ro, Gwanak-gu,
-       Seoul 08826, Republic of Korea</p>
-    <p>Office: Rm. 209B at Building #19</p>
-    <p>Telephone : +82-2-880-8150</p>
-    <p>Fax : +82-2-887-1435</p>
 
 news: false # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Associate Professor,Astronomy Program, Department of Physics and Astronomy, Seoul National University (서울대학교 물리천문학부 천문학전공 부교수)
+Associate Professor,Astronomy Program, Department of Physics and Astronomy, Seoul National University
 
+서울대학교 물리천문학부 천문학전공 부교수
 * Email : galaxy79@snu.ac.kr
 
 * Address: Astronomy Program, Department of Physics and Astronomy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
@@ -73,7 +67,7 @@ Associate Professor,Astronomy Program, Department of Physics and Astronomy, Seou
 
 <br/>
 
-##Links:
+## Links:
 [[SNU Astronomy]](https://astron.snu.ac.kr) [[KASI Galaxy Evolution Group]](https://galev.kasi.re.kr/doku.php) [[KIAS Astrophysics Group]](https://astro.kias.re.kr/)
 
 <br/>
