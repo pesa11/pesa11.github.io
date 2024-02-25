@@ -104,7 +104,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2022, ApJ, 928, 108](https://ui.adsabs.harvard.edu/abs/2022ApJ...928..170K/abstract)
 
 175\. Minkowski Functionals of SDSS-III BOSS: Hints of Possible Anisotropy in the Density Field?,  
-&nbsp;&nbsp;&nbsp;Appleby, S., et al. (<u>Hwang, H. S.</u>),
+&nbsp;&nbsp;&nbsp;Appleby, S., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2022, ApJ, 928, 170](https://ui.adsabs.harvard.edu/abs/2022ApJ...928..108A/abstract)
 
 174\. Determining star formation rates of active galactic nuclei host galaxies based on SED fitting with sub-mm data,  
@@ -138,7 +138,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2021, A&A, 651, 108](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A.108P/abstract)
 
 167\. Revealing the Local Dark-Matter Map by Deep Learning,  
-&nbsp;&nbsp;&nbsp;Hong, S. E., Jeong D., <u>Hwang, H. S.</u>, Kim, J.,
+&nbsp;&nbsp;&nbsp;Hong, S. E., Jeong D., <u>Hwang, H. S.</u>, Kim, J.,  
 &nbsp;&nbsp;&nbsp;[2021, ApJ, 913, 76](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...76H/abstract)
 
 166\. Revisiting the Color-Color Selection: Submillimeter and AGN Properties of NUV-r-J Selected Quiescent Galaxies,  
@@ -200,7 +200,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2020, ApJ, 902, 17](https://ui.adsabs.harvard.edu/abs/2020ApJ...902...17S/abstract)
 
 152\. Ly_alpha Radiative Transfer: Modeling Spectrum and Surface Brightness Profile of Ly_alpha-emitting galaxies at z=3-6,  
-&nbsp;&nbsp;&nbsp;Song, H., Seon, K.-I., <u>Hwang, H. S.</u>,
+&nbsp;&nbsp;&nbsp;Song, H., Seon, K.-I., <u>Hwang, H. S.</u>,  
 &nbsp;&nbsp;&nbsp;[2020, ApJ, 901, 41](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...41S/abstract)
 
 151\. NEPSC2, the North Ecliptic Pole SCUBA-2 survey: 850-μm map and catalogue of 850-μm selected sources over 2 deg2,  
@@ -439,7 +439,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>, Dell’Antonio, I., Zahid, H. J., Kurtz, M. J., Fabricant, D. G.,  
 &nbsp;&nbsp;&nbsp;[2016, ApJS, 224, 11](http://ui.adsabs.harvard.edu/abs/2016ApJS..224...11G)
 
-94\. The Stellar Mass Fundamental Plane and Compact Quiescent Galaxies at z < 0.6,
+94\. The Stellar Mass Fundamental Plane and Compact Quiescent Galaxies at z < 0.6,  
 &nbsp;&nbsp;&nbsp;Zahid, H. J., Damjanov, I., Geller, M. J., <u>Hwang, H. S.</u>, Fabricant, D.,  
 &nbsp;&nbsp;&nbsp;[2016, ApJ, 821, 101](http://ui.adsabs.harvard.edu/abs/2016ApJ...821..101Z)
 
