@@ -465,620 +465,379 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;Damjanov, I., Geller, M. J., Zahid, H. J., <u>Hwang, H. S.</u>,  
 &nbsp;&nbsp;&nbsp;[2015, ApJ, 815, 104](http://ui.adsabs.harvard.edu/abs/2015ApJ...815..104D)
 
-----------------
+88\. SHELS: A Rise in the Ionizing Photons in Star-forming Galaxies between 0.2<z<0.6,  
+&nbsp;&nbsp;&nbsp;Kewley, L, Zahid, H. J., Geller, M. J., Dopita, M., <u>Hwang, H. S.</u>, Fabricant, D.,  
+&nbsp;&nbsp;&nbsp;[2015, ApJL, 812, 20](http://ui.adsabs.harvard.edu/abs/2015ApJ...812L..20K)
 
-88. SHELS: A Rise in the Ionizing Photons in Star-forming Galaxies between 0.2<z<0.6,
+87\. The satellite content and quenching of star formation in galaxy groups at z~1.8,  
+&nbsp;&nbsp;&nbsp;Gobat, R., Daddi, E. et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2015, A&A, 581, 56](http://ui.adsabs.harvard.edu/abs/2015A%26A...581A..56G)
 
-&nbsp;&nbsp;&nbsp;Kewley, L, Zahid, H. J., Geller, M. J., Dopita, M., <u>Hwang, H. S.</u>, Fabricant, D.,
-&nbsp;&nbsp;&nbsp;2015, ApJL, 812, 20
+86\. GOODS-Herschel : Star Formation, Dust Attenuation and the FIR-Radio Correlation on the Main Sequence of Star-Forming Galaxies up to z ~ 4,  
+&nbsp;&nbsp;&nbsp;Pannella, M., Elbaz, D., Daddi, E., Dickinson, M., <u>Hwang, H. S.</u>, et al.,  
+&nbsp;&nbsp;&nbsp;[2015, ApJ, 807, 141](http://ui.adsabs.harvard.edu/abs/2015ApJ...807..141P)
 
-87. The satellite content and quenching of star formation in galaxy groups at z~1.8,
+85\. GOODS-Herschel: resolving the Cosmic Infrared Background by pushing Herschel to its faintest limit up to 500 μm,  
+&nbsp;&nbsp;&nbsp;Leiton, R., Elbaz, D., Okumura, K., <u>Hwang, H. S.</u>, et al.,  
+&nbsp;&nbsp;&nbsp;[2015, A&A, 579, 93](http://ui.adsabs.harvard.edu/abs/2015A%26A...579A..93L)
 
-&nbsp;&nbsp;&nbsp;Gobat, R., Daddi, E. et al. (<u>Hwang, H. S.</u>),
-&nbsp;&nbsp;&nbsp;2015, A&A, 581, 56
+84\. Schwarzschild Lecture 2014: HectoMAPping the Universe,  
+&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2015, AN, 336, 428](http://ui.adsabs.harvard.edu/abs/2015AN....336..428G)
 
-86. GOODS-Herschel : Star Formation, Dust Attenuation and the FIR-Radio Correlation
-      on the Main Sequence of Star-Forming Galaxies up to z ~ 4,
-
-&nbsp;&nbsp;&nbsp;Pannella, M., Elbaz, D., Daddi, E., Dickinson, M., <u>Hwang, H. S.</u>, et al.,
-&nbsp;&nbsp;&nbsp; 2015, ApJ, 807, 141
-
-
-85. GOODS-Herschel: resolving the Cosmic Infrared Background by pushing Herschel to its faintest limit
-      up to 500 μm,
-
-&nbsp;&nbsp;&nbsp;Leiton, R., Elbaz, D., Okumura, K., <u>Hwang, H. S.</u>, et al.,
-&nbsp;&nbsp;&nbsp;2015, A&A, 579, 93
-
-
-84. Schwarzschild Lecture 2014: HectoMAPping the Universe,
-
-&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>,
-&nbsp;&nbsp;&nbsp;2015, AN, 336, 428
-
-83. Quiescent Compact Galaxies at Intermediate Redshift in the COSMOS field. The Number Density,
-
-&nbsp;&nbsp;&nbsp;Damjanov, I., Geller, M. J., Zahid, H. J., <u>Hwang, H. S.</u>,
-&nbsp;&nbsp;&nbsp;2015, ApJ, 806, 158
+83\. Quiescent Compact Galaxies at Intermediate Redshift in the COSMOS field. The Number Density,  
+&nbsp;&nbsp;&nbsp;Damjanov, I., Geller, M. J., Zahid, H. J., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2015, ApJ, 806, 158](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..158D/abstract)
 
 
-82. Galaxy Evolution in the Mid-infrared Green Valley: a Case of the A2199 Supercluster,
-&nbsp;&nbsp;&nbsp;Lee, G.-H., <u>Hwang, H. S.</u>, Lee, M. G., Sohn, J., Shim, H., Diaferio, A.,
-&nbsp;&nbsp;&nbsp;2015, ApJ, 800, 80
+82\. Galaxy Evolution in the Mid-infrared Green Valley: a Case of the A2199 Supercluster,    
+&nbsp;&nbsp;&nbsp;Lee, G.-H., <u>Hwang, H. S.</u>, Lee, M. G., Sohn, J., Shim, H., Diaferio, A.,  
+&nbsp;&nbsp;&nbsp;[2015, ApJ, 800, 80](http://ui.adsabs.harvard.edu/abs/2015ApJ...800...80L)
 
 
-81. Constraining the galaxy mass content in the core of A383: first case study
-      using velocity dispersion measurements for individual cluster members,
-
-&nbsp;&nbsp;&nbsp;Monna, A., Seitz, S. et al. (<u>Hwang, H. S.</u>),
-&nbsp;&nbsp;&nbsp;2015, MNRAS, 447, 1224
+81\. Constraining the galaxy mass content in the core of A383: first case study using velocity dispersion measurements for individual cluster members,  
+&nbsp;&nbsp;&nbsp;Monna, A., Seitz, S. et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2015, MNRAS, 447, 1224](http://ui.adsabs.harvard.edu/abs/2015MNRAS.447.1224M)
 
 
-80. The Double Galaxy Cluster Abell 2465 II. Star Formation in the Cluster,
-
-&nbsp;&nbsp;&nbsp;Wegner, G. A., Chu, D. S., <u>Hwang, H. S.</u>,
-&nbsp;&nbsp;&nbsp;2015, MNRAS, 447, 1126
+80\. The Double Galaxy Cluster Abell 2465 II. Star Formation in the Cluster,  
+&nbsp;&nbsp;&nbsp;Wegner, G. A., Chu, D. S., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2015, MNRAS, 447, 1126](http://ui.adsabs.harvard.edu/abs/2015MNRAS.447.1126W)
 
 ### 2014:
 
-79. Comparing Dense Galaxy Cluster Redshift Surveys with Weak Lensing Maps,
+79\. Comparing Dense Galaxy Cluster Redshift Surveys with Weak Lensing Maps,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J.,  Diaferio, A., Rines, J. K., Zahid, J.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 797, 106](http://ui.adsabs.harvard.edu/abs/2014ApJ...797..106H)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J.,  Diaferio, A., Rines, J. K., Zahid, J.,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 797, 106
+78\. The Number Density of Quiescent Compact Galaxies at Intermediate Redshift,  
+&nbsp;&nbsp;&nbsp;Damjanov, I., <u>Hwang, H. S.</u>, Chilingarian, I., Geller, M. J.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 793, 39](http://ui.adsabs.harvard.edu/abs/2014ApJ...793...39D)
 
+77\. Regularity underlying complexity: a redshift-independent description of the continuous variation of galaxy-scale molecular gas properties in the mass-star formation rate plane,  
+&nbsp;&nbsp;&nbsp;Sargent, M., Daddi, E., Bethermin, M., Aussel, H., Magdis, G., <u>Hwang, H. S.</u>, Juneau, S., Elbaz, da Cunha, E.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 793, 19](http://ui.adsabs.harvard.edu/abs/2014ApJ...793...19S)
 
-78. The Number Density of Quiescent Compact Galaxies at Intermediate Redshift,
+76\. SHELS: A Complete Galaxy Redshift Survey with R≤20.6,  
+&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>, Fabricant, D. G., Kurtz, M. J., Dell'Antonio, I. P., Zahid, J.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJS, 213, 35](http://ui.adsabs.harvard.edu/abs/2014ApJS..213...35G)
 
-&nbsp;&nbsp;&nbsp;Damjanov, I., <u>Hwang, H. S.</u>, Chilingarian, I., Geller, M. J.,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 793, 39
+75\. Tracing Recent Star Formation of Red Early-type Galaxies out to z~1,  
+&nbsp;&nbsp;&nbsp;Ko, J., <u>Hwang, H. S.</u>, Im, M., Le Borgne, D., Lee, J. C., Elbaz, D.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 791, 134](http://ui.adsabs.harvard.edu/abs/2014ApJ...791..134K)
 
+74\. The Universal Relation of Galactic Chemical Evolution: The Origin of the Mass-Metallicity Relation,  
+&nbsp;&nbsp;&nbsp;Zahid, J., Dima, G., Kudritzki, R., Kewley, L., Geller, M. J., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 791, 130](http://ui.adsabs.harvard.edu/abs/2014ApJ...791..130Z)
 
-77. Regularity underlying complexity: a redshift-independent description of the continuous variation
-      of galaxy-scale molecular gas properties in the mass-star formation rate plane,
-
-&nbsp;&nbsp;&nbsp;Sargent, M., Daddi, E., Bethermin, M., Aussel, H., Magdis, G., <u>Hwang, H. S.</u>, Juneau, S., Elbaz, da Cunha, E.,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 793, 19
-
-
-76. SHELS: A Complete Galaxy Redshift Survey with R≤20.6,
-
-&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>, Fabricant, D. G., Kurtz, M. J., Dell'Antonio, I. P., Zahid, J.,
-&nbsp;&nbsp;&nbsp;2014, ApJS, 213, 35
-
-
-75. Tracing Recent Star Formation of Red Early-type Galaxies out to z~1,
-
-&nbsp;&nbsp;&nbsp;Ko, J., <u>Hwang, H. S.</u>, Im, M., Le Borgne, D., Lee, J. C., Elbaz, D.,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 791, 134
-
-
-74. The Universal Relation of Galactic Chemical Evolution: The Origin of the Mass-Metallicity Relation,
-
-&nbsp;&nbsp;&nbsp;Zahid, J., Dima, G., Kudritzki, R., Kewley, L., Geller, M. J., <u>Hwang, H. S.</u>,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 791, 130
-
-
-73. A Redshift Survey of the Strong Lensing Cluster Abell 383,
-
-&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>, Diaferio, A., Kurtz, M., Coe, D., Rines, J. K.,
-&nbsp;&nbsp;&nbsp;2014, ApJ, 783, 52
+73\. A Redshift Survey of the Strong Lensing Cluster Abell 383,  
+&nbsp;&nbsp;&nbsp;Geller, M. J., <u>Hwang, H. S.</u>, Diaferio, A., Kurtz, M., Coe, D., Rines, J. K.,  
+&nbsp;&nbsp;&nbsp;[2014, ApJ, 783, 52](http://ui.adsabs.harvard.edu/abs/2014ApJ...783...52G)
 
 ### 2013:
 
-72. Measuring Galaxy Velocity Dispersions with Hectospec,
+72\. Measuring Galaxy Velocity Dispersions with Hectospec,  
+&nbsp;&nbsp;&nbsp;Fabricant, D., Chilingarian, I., <u>Hwang, H. S.</u>, Kurtz, M., Geller, M. J., Dell'Antonio, I.,  Rines, K.,  
+&nbsp;&nbsp;&nbsp;[2013, PASP, 125, 1362](http://ui.adsabs.harvard.edu/abs/2013PASP..125.1362F)
 
-&nbsp;&nbsp;&nbsp;Fabricant, D., Chilingarian, I., <u>Hwang, H. S.</u>, Kurtz, M., Geller, M. J., Dell'Antonio, I.,  Rines, K.,
-&nbsp;&nbsp;&nbsp;2013, PASP, 125, 1362
+71\. Dust Properties of Local Dust-Obscured Galaxies with the Submillimeter Array,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Andrews, S. M., Geller, M. J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 777, 38](http://ui.adsabs.harvard.edu/abs/2013ApJ...777...38H)
 
+70\. Discovery of Nine Intermediate Redshift Compact Quiescent Galaxies in the Sloan Digital Sky Survey,  
+&nbsp;&nbsp;&nbsp;Damjanov, I., Chilingarian, I., <u>Hwang, H. S.</u>, Geller, M. J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJL, 775, 48](http://ui.adsabs.harvard.edu/abs/2013ApJ...775L..48D)
 
-71. Dust Properties of Local Dust-Obscured Galaxies with the Submillimeter Array,
+69\. The Calibration of Star Formation Rate Indicators for WISE Selected Galaxies,  
+&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Ko, J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 774, 62](http://ui.adsabs.harvard.edu/abs/2013ApJ...774...62L)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Andrews, S. M., Geller, M. J.,
-&nbsp;&nbsp;&nbsp;2013, ApJ, 777, 38
+68\. Activity in Galactic Nuclei of Compact Group Galaxies in the Local Universe,  
+&nbsp;&nbsp;&nbsp;Sohn, J., <u>Hwang, H. S.</u>, Lee, M. G., Lee, G.-H., Lee, J. C.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 771, 106](http://ui.adsabs.harvard.edu/abs/2013ApJ...771..106S)
 
-
-70. Discovery of Nine Intermediate Redshift Compact Quiescent Galaxies in the Sloan Digital Sky Survey,
-
-&nbsp;&nbsp;&nbsp;Damjanov, I., Chilingarian, I., <u>Hwang, H. S.</u>, Geller, M. J.,
-&nbsp;&nbsp;&nbsp;2013, ApJL, 775, 48
-
-
-69. The Calibration of Star Formation Rate Indicators for WISE Selected Galaxies,
-
-&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Ko, J.,
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 774, 62
-
-68. Activity in Galactic Nuclei of Compact Group Galaxies in the Local Universe,
-
-&nbsp;&nbsp;&nbsp;Sohn, J., <u>Hwang, H. S.</u>, Lee, M. G., Lee, G.-H., Lee, J. C.,
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 771, 106
-
-67. The Chemical Evolution of Star-Forming Galaxies Over the Last 11 Billion Years,
-
-&nbsp;&nbsp;&nbsp;Zahid, J., Geller, M. J., Kewley, L., <u>Hwang, H. S.</u>, Fabricant, D., Kurtz, M.,
-&nbsp;&nbsp;&nbsp;2013, ApJL, 771, 19
+67\. The Chemical Evolution of Star-Forming Galaxies Over the Last 11 Billion Years,  
+&nbsp;&nbsp;&nbsp;Zahid, J., Geller, M. J., Kewley, L., <u>Hwang, H. S.</u>, Fabricant, D., Kurtz, M.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJL, 771, 19](http://ui.adsabs.harvard.edu/abs/2013ApJ...771L..19Z)
 
 
-66. Release of the deepest Herschel-PACS far-infrared survey: number counts and infrared luminosity
-      functions from combined PEP/GOODS-H observations,
+66\. Release of the deepest Herschel-PACS far-infrared survey: number counts and infrared luminosity functions from combined PEP/GOODS-H observations,  
+&nbsp;&nbsp;&nbsp;Magnelli, B., Popesso, P., Berta, S., Pozzi, F., PEP/GOODS-H team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, A&A, 553, 132](http://ui.adsabs.harvard.edu/abs/2013A%26A...553A.132M)
 
-&nbsp;&nbsp;&nbsp;Magnelli, B., Popesso, P., Berta, S., Pozzi, F., PEP/GOODS-H team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2013, A&A, 553, 132
-
-65. Dust-Obscured Galaxies in the Local Universe,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J.,
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 769, 116
+65\. Dust-Obscured Galaxies in the Local Universe,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 769, 116](http://ui.adsabs.harvard.edu/abs/2013ApJ...769..116H)
  
-64. The Herschel census of infrared SEDs through cosmic time,
+64\. The Herschel census of infrared SEDs through cosmic time,  
+&nbsp;&nbsp;&nbsp;Symeonidis, M., Vaccari, M., Berta, S., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, MNRAS, 431, 2317](http://ui.adsabs.harvard.edu/abs/2013MNRAS.431.2317S)
 
-&nbsp;&nbsp;&nbsp;Symeonidis, M., Vaccari, M., Berta, S., et al. (<u>Hwang, H. S.</u>),
+63\. A Survey for Planetary Nebulae in M31 Globular Clusters,  
+&nbsp;&nbsp;&nbsp;Jacoby, G. H., Ciardullo, R., De Marco, O., Lee, M. G., Herrmann, K. A., <u>Hwang, H. S.</u>, Kaplan, E., Davies, J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 769, 10](http://ui.adsabs.harvard.edu/abs/2013ApJ...769...10J)
 
-&nbsp;&nbsp;&nbsp;2013, MNRAS, 431, 2317
+62\. The Mid-infrared and Near-Ultraviolet Excess Emissions of Quiescent Galaxies on the Red Sequence,  
+&nbsp;&nbsp;&nbsp;Ko, J., <u>Hwang, H. S.</u>, Lee, J. C., Sohn, Y.-J.,  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 767, 90](http://ui.adsabs.harvard.edu/abs/2013ApJ...767...90K)
 
-63. A Survey for Planetary Nebulae in M31 Globular Clusters,
+61\. Panchromatic Spectral Energy Distributions of Herschel Sources,  
+&nbsp;&nbsp;&nbsp;Berta, S., Lutz, D., Santini, P., Wuyts, S., Rosario, D., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, A&A, 551, 100](http://ui.adsabs.harvard.edu/abs/2013A%26A...551A.100B)
 
-&nbsp;&nbsp;&nbsp;Jacoby, G. H., Ciardullo, R., De Marco, O., Lee, M. G., Herrmann, K. A., <u>Hwang, H. S.</u>, Kaplan, E., Davies, J.,
+60\. Widespread and Hidden Active Galactic Nuclei in Star-forming Galaxies at redshift>0.3,  
+&nbsp;&nbsp;&nbsp;Juneau, S., Dickinson, M., Bournaud, F., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 764, 176](http://ui.adsabs.harvard.edu/abs/2013ApJ...764..176J)
 
-&nbsp;&nbsp;&nbsp;2013, ApJ, 769, 10
+59\. GOODS-Herschel: Separating High redshift Active Galactic Nuclei and Star Forming Galaxies using Infrared Color Diagnostics,  
+&nbsp;&nbsp;&nbsp;Kirkpatrick, A., Pope, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, ApJ, 763, 123](http://ui.adsabs.harvard.edu/abs/2013ApJ...763..123K)
 
-62. The Mid-infrared and Near-Ultraviolet Excess Emissions of Quiescent Galaxies on the Red Sequence,
-
-&nbsp;&nbsp;&nbsp;Ko, J., <u>Hwang, H. S.</u>, Lee, J. C., Sohn, Y.-J.,
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 767, 90
-
-61. Panchromatic Spectral Energy Distributions of Herschel Sources,
-
-&nbsp;&nbsp;&nbsp;Berta, S., Lutz, D., Santini, P., Wuyts, S., Rosario, D., et al. (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2013, A&A, 551, 100
-
-60. Widespread and Hidden Active Galactic Nuclei in Star-forming Galaxies at redshift>0.3,
-
-&nbsp;&nbsp;&nbsp;Juneau, S., Dickinson, M., Bournaud, F., et al. (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 764, 176
-
-59. GOODS-Herschel: Separating High redshift Active Galactic Nuclei and Star Forming Galaxies
-
-     using Infrared Color Diagnostics,
-
-&nbsp;&nbsp;&nbsp;Kirkpatrick, A., Pope, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2013, ApJ, 763, 123
-
-
-58. GOODS-Herschel: radio-excess signature of hidden AGN activity in distant star-forming galaxies,
-
-&nbsp;&nbsp;&nbsp;Del Moro, A., Alexander, D. M., Mullaney, J. R., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2013, A&A, 549, 59
+58\. GOODS-Herschel: radio-excess signature of hidden AGN activity in distant star-forming galaxies,  
+&nbsp;&nbsp;&nbsp;Del Moro, A., Alexander, D. M., Mullaney, J. R., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2013, A&A, 549, 59](http://ui.adsabs.harvard.edu/abs/2013A%26A...549A..59D)
 
 ### 2012:
 
-57. The Evolving Interstellar Medium of Star Forming Galaxies since z=2 as Probed by
-      Their Infrared Spectral Energy Distributions,
-
-&nbsp;&nbsp;&nbsp;Magdis, G. E., Daddi, E., Bethermin, M., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 760, 6
-
-56. GOODS-Herschel: Impact of Active Galactic Nuclei and Star Formation Activity on      
-
-      Infrared Spectral Energy Distributions at High Redshift,
-
-&nbsp;&nbsp;&nbsp;Kirkpatrick, A., Pope, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 759, 139
-
-
-55. The Globular Cluster System of NGC 4636 and Formation of Globular Clusters in gE Galaxies,
-
-       Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>, Kim, S. C., Arimoto, N., Yamada, Y., Tamura, N., Onodera, M.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 759, 116
-
-54. Evidence for a wide range of UV obscuration in z~2 dusty galaxies from the GOODS-Herschel survey,
-
-&nbsp;&nbsp;&nbsp;Penner, K., Dickinson, M., Pope, A., Dey, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 759, 28
-
-53. The spin of late-type galaxies at high redshift,
-
-&nbsp;&nbsp;&nbsp;Cervantes-Sodi, B., Hernandez, X.,  <u>Hwang, H. S.</u>, Park, C., Le Borgne, D.,
-
-&nbsp;&nbsp;&nbsp;2012, MNRAS, 426, 1606
-
-52. GOODS-Herschel: Ultra-deep XMM-Newton observations reveal AGN/star-formation connection,
-
-&nbsp;&nbsp;&nbsp;Rovilos, E., Comastri, A., Gilli, R., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, A&A, 546, 58
-
-51. SHELS: Optical Spectral Properties of WISE 22 μm-selected Galaxies,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J., Kurtz, M.,  Dell'Antonio, I., Fabricant, D.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 758, 25
-
-50. SUBARU Spectroscopy of the Globular Clusters in the Virgo Giant Elliptical Galaxy M86,
-
-&nbsp;&nbsp;&nbsp;Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 757, 184
-
-49. GOODS-Herschel & CANDELS: The Morphologies of Ultraluminous Infrared Galaxies at z~2,
-
-&nbsp;&nbsp;&nbsp;Kartaltepe, J., Dickinson, M., GOODS-Herschel team (<u>Hwang, H. S.</u>), CANDELS team,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 757, 23
-
-
-48. AKARI Near-Infrared Spectroscopy of Luminous Infrared Galaxies,
-
-&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Lee, M. G., Kim, M., Lee, J. H.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 756, 95
-
-
-47. GOODS-Herschel: dust attenuation properties of UV selected high redshift galaxies,
-
-&nbsp;&nbsp;&nbsp;Buat, V., Noll, S., Burgarella, D., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, A&A, 545, 141
-
-46. The Herschel Multi-tiered Extragalactic Survey: HerMES,
-
-&nbsp;&nbsp;&nbsp;Oliver, S. J., Bock, J., HerMES team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, MNRAS, 424, 1614
-
-
-45. A WISE View of a Nearby Supercluster A2199,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J., Diaferio, A., Rines, K.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 752, 64
-
-
-44. Do bars trigger activity in galactic nuclei?,
-
-&nbsp;&nbsp;&nbsp;Lee, G. H., Woo, J.-H., Lee, M. G., <u>Hwang, H. S.</u>, Lee, J. C., Sohn, J., Lee, J. H.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 750, 141
-
-
-43. A Herschel view of the far-infrared properties of submillimetre galaxies,
-
-&nbsp;&nbsp;&nbsp;Magnelli, B., Lutz, D., Santini, P., Saintonge, A., Berta, S., PEP/HerMES team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2011, A&A, 539, 155
-
-
-42. AKARI Observation of the North Ecliptic Pole (NEP) Supercluster at z=0.087:
-
-      mid-infrared view of transition galaxies,
-
-&nbsp;&nbsp;&nbsp;Ko, J., Im, M., Lee, H. M., Lee, M. G., Kim, S. J., Shim, H., Jeon, Y., <u>Hwang, H. S.</u>, et al.,
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 745, 181
-
-
-41. Activity in galactic nuclei of cluster and field galaxies in the local universe,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C., Elbaz, D., Choi, Y.-Y.,
-
-&nbsp;&nbsp;&nbsp;2012, A&A, 538, 15
-
-
-40. GOODS-Herschel: The far-infrared view of star formation in AGN host galaxies since z~3,
-
-&nbsp;&nbsp;&nbsp;Mullaney, J. R., Pannella, M., Daddi, E., Alexander, D. M., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, MNRAS, 419, 95
-
-
-39. GOODS-Herschel Measurements of the Dust Attenuation of Typical Star-Forming Galaxies
-
-      at High Redshift: Observations of UV-Selected Galaxies at z~2,
-
-&nbsp;&nbsp;&nbsp;Reddy, N., Dickinson, M., Elbaz, D., Morrison, G., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, ApJ, 744, 154
-
-
-38. The evolution of the star formation activity per halo mass up to redshift ~1.6 as seen by Herschel,
-
-&nbsp;&nbsp;&nbsp;Popesso, P., Biviano, A., PEP team, GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2012, A&A, 537, 58
+57\. The Evolving Interstellar Medium of Star Forming Galaxies since z=2 as Probed by Their Infrared Spectral Energy Distributions,  
+&nbsp;&nbsp;&nbsp;Magdis, G. E., Daddi, E., Bethermin, M., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 760, 6](http://ui.adsabs.harvard.edu/abs/2012ApJ...760....6M)
+
+56\. GOODS-Herschel: Impact of Active Galactic Nuclei and Star Formation Activity on Infrared Spectral Energy Distributions at High Redshift,  
+&nbsp;&nbsp;&nbsp;Kirkpatrick, A., Pope, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 759, 139](http://ui.adsabs.harvard.edu/abs/2012ApJ...759..139K)
+
+55\. The Globular Cluster System of NGC 4636 and Formation of Globular Clusters in gE Galaxies,  
+&nbsp;&nbsp;&nbsp;Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>, Kim, S. C., Arimoto, N., Yamada, Y., Tamura, N., Onodera, M.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 759, 116](http://ui.adsabs.harvard.edu/abs/2012ApJ...759..116P)
+
+54\. Evidence for a wide range of UV obscuration in z~2 dusty galaxies from the GOODS-Herschel survey,  
+&nbsp;&nbsp;&nbsp;Penner, K., Dickinson, M., Pope, A., Dey, A., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 759, 28](http://ui.adsabs.harvard.edu/abs/2012ApJ...759...28P)
+
+53\. The spin of late-type galaxies at high redshift,  
+&nbsp;&nbsp;&nbsp;Cervantes-Sodi, B., Hernandez, X.,  <u>Hwang, H. S.</u>, Park, C., Le Borgne, D.,  
+&nbsp;&nbsp;&nbsp;[2012, MNRAS, 426, 1606](http://ui.adsabs.harvard.edu/abs/2012MNRAS.426.1606C)
+
+52\. GOODS-Herschel: Ultra-deep XMM-Newton observations reveal AGN/star-formation connection,  
+&nbsp;&nbsp;&nbsp;Rovilos, E., Comastri, A., Gilli, R., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, A&A, 546, 58](http://ui.adsabs.harvard.edu/abs/2012A%26A...546A..58R)
+
+51\. SHELS: Optical Spectral Properties of WISE 22 μm-selected Galaxies,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J., Kurtz, M.,  Dell'Antonio, I., Fabricant, D.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 758, 25](http://ui.adsabs.harvard.edu/abs/2012ApJ...758...25H)
+
+50\. SUBARU Spectroscopy of the Globular Clusters in the Virgo Giant Elliptical Galaxy M86,  
+&nbsp;&nbsp;&nbsp;Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 757, 184](http://ui.adsabs.harvard.edu/abs/2012ApJ...757..184P)
+
+49\. GOODS-Herschel & CANDELS: The Morphologies of Ultraluminous Infrared Galaxies at z~2,  
+&nbsp;&nbsp;&nbsp;Kartaltepe, J., Dickinson, M., GOODS-Herschel team (<u>Hwang, H. S.</u>), CANDELS team,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 757, 23](http://ui.adsabs.harvard.edu/abs/2012ApJ...757...23K)
+
+48\. AKARI Near-Infrared Spectroscopy of Luminous Infrared Galaxies,  
+&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Lee, M. G., Kim, M., Lee, J. H.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 756, 95](http://ui.adsabs.harvard.edu/abs/2012ApJ...756...95L)
+
+47\. GOODS-Herschel: dust attenuation properties of UV selected high redshift galaxies,  
+&nbsp;&nbsp;&nbsp;Buat, V., Noll, S., Burgarella, D., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, A&A, 545, 141](http://ui.adsabs.harvard.edu/abs/2012A%26A...545A.141B)
+
+46\. The Herschel Multi-tiered Extragalactic Survey: HerMES,  
+&nbsp;&nbsp;&nbsp;Oliver, S. J., Bock, J., HerMES team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, MNRAS, 424, 1614](http://ui.adsabs.harvard.edu/abs/2012MNRAS.424.1614O)
+
+45\. A WISE View of a Nearby Supercluster A2199,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Geller, M. J., Diaferio, A., Rines, K.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 752, 64](http://ui.adsabs.harvard.edu/abs/2012ApJ...752...64H)
+
+44\. Do bars trigger activity in galactic nuclei?,  
+&nbsp;&nbsp;&nbsp;Lee, G. H., Woo, J.-H., Lee, M. G., <u>Hwang, H. S.</u>, Lee, J. C., Sohn, J., Lee, J. H.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 750, 141](http://ui.adsabs.harvard.edu/abs/2012ApJ...750..141L)
+
+43\. A Herschel view of the far-infrared properties of submillimetre galaxies,  
+&nbsp;&nbsp;&nbsp;Magnelli, B., Lutz, D., Santini, P., Saintonge, A., Berta, S., PEP/HerMES team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2011, A&A, 539, 155](http://ui.adsabs.harvard.edu/abs/2012A%26A...539A.155M)
+
+42\. AKARI Observation of the North Ecliptic Pole (NEP) Supercluster at z=0.087: mid-infrared view of transition galaxies,  
+&nbsp;&nbsp;&nbsp;Ko, J., Im, M., Lee, H. M., Lee, M. G., Kim, S. J., Shim, H., Jeon, Y., <u>Hwang, H. S.</u>, et al.,  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 745, 181](http://ui.adsabs.harvard.edu/abs/2012ApJ...745..181K)
+
+41\. Activity in galactic nuclei of cluster and field galaxies in the local universe,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C., Elbaz, D., Choi, Y.-Y.,  
+&nbsp;&nbsp;&nbsp;[2012, A&A, 538, 15](http://ui.adsabs.harvard.edu/abs/2012A%26A...538A..15H)
+
+40\. GOODS-Herschel: The far-infrared view of star formation in AGN host galaxies since z~3,  
+&nbsp;&nbsp;&nbsp;Mullaney, J. R., Pannella, M., Daddi, E., Alexander, D. M., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, MNRAS, 419, 95](http://ui.adsabs.harvard.edu/abs/2012MNRAS.419...95M)
+
+39\. GOODS-Herschel Measurements of the Dust Attenuation of Typical Star-Forming Galaxies at High Redshift: Observations of UV-Selected Galaxies at z~2,  
+&nbsp;&nbsp;&nbsp;Reddy, N., Dickinson, M., Elbaz, D., Morrison, G., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, ApJ, 744, 154](http://ui.adsabs.harvard.edu/abs/2012ApJ...744..154R)
+
+38\. The evolution of the star formation activity per halo mass up to redshift ~1.6 as seen by Herschel,  
+&nbsp;&nbsp;&nbsp;Popesso, P., Biviano, A., PEP team, GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2012, A&A, 537, 58](http://ui.adsabs.harvard.edu/abs/2012A%26A...537A..58P)
 
 ### 2011:
 
-37. GOODS-Herschel: the impact of galaxy-galaxy interactions on the far-infrared properties of galaxies,
+37\. GOODS-Herschel: the impact of galaxy-galaxy interactions on the far-infrared properties of galaxies,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Dickinson, M., Charmandaris, V.,  Daddi, E., GOODS-Herschel team,  
+&nbsp;&nbsp;&nbsp;[2011, A&A, 535, 60](http://ui.adsabs.harvard.edu/abs/2011A%26A...535A..60H)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Dickinson, M., Charmandaris, V.,  Daddi, E., GOODS-Herschel team,
+36\. GOODS-Herschel: Gas-to-dust mass ratios and CO-to-H2 conversion factors in normal and starbursting galaxies at high-z,  
+&nbsp;&nbsp;&nbsp;Magdis, G. E., Daddi, E., Elbaz, D., Sargent, M., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2011, ApJL, 740, 15](http://ui.adsabs.harvard.edu/abs/2011ApJ...740L..15M)
 
-&nbsp;&nbsp;&nbsp;2011, A&A, 535, 60
+35\. GOODS-Herschel: A population of 24 μm dropout sources at z < 2,  
+&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., Dickinson, M., <u>Hwang, H. S.</u>, Charmandaris, V., GOODS-Herschel team,  
+&nbsp;&nbsp;&nbsp;[2011, A&A, 534, 15](http://ui.adsabs.harvard.edu/abs/2011A%26A...534A..15M)
 
+34\. GOODS-Herschel: an infrared main sequence for star-forming galaxies,  
+&nbsp;&nbsp;&nbsp;Elbaz, D., Dickinson, M., <u>Hwang, H. S.</u>, Diaz-Santos, T., Magdis, G., GOODS-Herschel team,  
+&nbsp;&nbsp;&nbsp;[2011, A&A, 533, 119](http://ui.adsabs.harvard.edu/abs/2011A%26A...533A.119E)
 
-36. GOODS-Herschel: Gas-to-dust mass ratios and CO-to-H2 conversion factors in normal and
+33\. GOODS-Herschel: evidence for a UV extinction bump in galaxies at z>1,  
+&nbsp;&nbsp;&nbsp;Buat, V., Giovannoli, E., Heinis, S., GOODS-Herschel team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2011, A&A, 533, 93](http://ui.adsabs.harvard.edu/abs/2011A%26A...533A..93B)
 
-      starbursting galaxies at high-z,
+32\. Optical spectral classification of southern ultraluminous infrared galaxies,  
+&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Lee, M. G., Kim, M., Kim, S. C.,  
+&nbsp;&nbsp;&nbsp;[2011, MNRAS, 414, 702](http://ui.adsabs.harvard.edu/abs/2011MNRAS.414..702L)
 
-&nbsp;&nbsp;&nbsp;Magdis, G. E., Daddi, E., Elbaz, D., Sargent, M., GOODS-Herschel team (<u>Hwang, H. S.</u>),
+31\. Quantifying Galactic Morphological Transformations in the Cluster Environment,  
+&nbsp;&nbsp;&nbsp;Cervantes-Sodi, B., Park, C., Hernandez, X., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2011, MNRAS, 414, 587](http://ui.adsabs.harvard.edu/abs/2011MNRAS.414..587C)
 
-&nbsp;&nbsp;&nbsp;2011, ApJL, 740, 15
-
-
-35. GOODS-Herschel: A population of 24 μm dropout sources at z < 2,
-
-&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., Dickinson, M., <u>Hwang, H. S.</u>, Charmandaris, V., GOODS-Herschel team,
-
-&nbsp;&nbsp;&nbsp;2011, A&A, 534, 15
-
-
-34. GOODS-Herschel: an infrared main sequence for star-forming galaxies,
-
-&nbsp;&nbsp;&nbsp;Elbaz, D., Dickinson, M., <u>Hwang, H. S.</u>, Diaz-Santos, T., Magdis, G., GOODS-Herschel team,
-
-&nbsp;&nbsp;&nbsp;2011, A&A, 533, 119
-
-
-33. GOODS-Herschel: evidence for a UV extinction bump in galaxies at z>1,
-
-&nbsp;&nbsp;&nbsp;Buat, V., Giovannoli, E., Heinis, S., GOODS-Herschel team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2011, A&A, 533, 93
-
-
-32. Optical spectral classification of southern ultraluminous infrared galaxies,
-
-&nbsp;&nbsp;&nbsp;Lee, J. C., <u>Hwang, H. S.</u>, Lee, M. G., Kim, M., Kim, S. C.,
-
-&nbsp;&nbsp;&nbsp;2011, MNRAS, 414, 702
-
-
-31. Quantifying Galactic Morphological Transformations in the Cluster Environment,
-
-&nbsp;&nbsp;&nbsp;Cervantes-Sodi, B., Park, C., Hernandez, X., <u>Hwang, H. S.</u>,
-
-&nbsp;&nbsp;&nbsp;2011, MNRAS, 414, 587
-
-
-30. HerMES: Lyman Break Galaxies individually detected at 0.7 < z < 2.0 in GOODS-N
-
-      with Herschel/SPIRE,
-
-&nbsp;&nbsp;&nbsp;Burgarella, D., Buat, V., Magdis, G., HerMES team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2011, ApJL, 734, 12
+30\. HerMES: Lyman Break Galaxies individually detected at 0.7 < z < 2.0 in GOODS-N with Herschel/SPIRE,  
+&nbsp;&nbsp;&nbsp;Burgarella, D., Buat, V., Magdis, G., HerMES team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2011, ApJL, 734, 12](http://ui.adsabs.harvard.edu/abs/2011ApJ...734L..12B)
 
 ### 2010:
 
-29. Merging Galaxy Cluster Abell 2255 in Mid-Infrared,
+29\. Merging Galaxy Cluster Abell 2255 in Mid-Infrared,  
+&nbsp;&nbsp;&nbsp;Shim, H., Im, M., Lee, H. M., Lee, M. G., Kim, S. J., <u>Hwang, H. S.</u>, Hwang, N., Ko, J., et al.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 727, 14](http://ui.adsabs.harvard.edu/abs/2011ApJ...727...14S)
 
-&nbsp;&nbsp;&nbsp;Shim, H., Im, M., Lee, H. M., Lee, M. G., Kim, S. J., <u>Hwang, H. S.</u>, Hwang, N., Ko, J., et al.,
+28\. Evolution of Dust Temperature of Galaxies through Cosmic Time as seen by Herschel,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Magdis, G. E., Daddi, E., Symeonidis, M., et al.,  
+&nbsp;&nbsp;&nbsp;[2010, MNRAS, 409, 75](http://ui.adsabs.harvard.edu/abs/2010MNRAS.409...75H)
 
-&nbsp;&nbsp;&nbsp;2010, ApJ, 727, 14
+27\. Herschel reveals a Tdust-unbiased selection of z~2 ultraluminous infared galaxies,   
+&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., <u>Hwang, H. S.</u>, HerMES team,  
+&nbsp;&nbsp;&nbsp;[2010, MNRAS, 409, 22](http://ui.adsabs.harvard.edu/abs/2010MNRAS.409...22M)
 
+26\. Environmental Dependence of Local Luminous Infrared Galaxies,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Lee, J. C., Jeong, W.-S., Park, C., Lee, M. G., Lee, H. M.,  
+&nbsp;&nbsp;&nbsp;[2010, A&A, 522, 33](http://ui.adsabs.harvard.edu/abs/2010A%26A...522A..33H)
 
-28. Evolution of Dust Temperature of Galaxies through Cosmic Time as seen by Herschel,
+25\. A First Glimpse into the FIR properties of high-z UV-selected Galaxies; Herschel/PACS observations of z~3 LBGs,  
+&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., <u>Hwang, H. S.</u>, Daddi, E., Rigopoulou, D., PEP team,  
+&nbsp;&nbsp;&nbsp;[2010, ApJL, 720, 185](http://ui.adsabs.harvard.edu/abs/2010ApJ...720L.185M)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Magdis, G. E., Daddi, E., Symeonidis, M., et al.,
+24\. Unveiling Far-Infrared Counterparts of Bright Submillimeter Galaxies Using PACS Imaging,  
+&nbsp;&nbsp;&nbsp;Dannerbauer, H., Daddi, E., Morrison, G. E., PEP team (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2010, ApJL, 720, 144](http://ui.adsabs.harvard.edu/abs/2010ApJ...720L.144D)
 
-&nbsp;&nbsp;&nbsp;2010, MNRAS, 409, 75
+23\. Orbital Dependence of Galaxy Properties in Satellite Systems of Galaxies,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 720, 522](http://ui.adsabs.harvard.edu/abs/2010ApJ...720..522H)
 
+22\. AKARI Near-Infrared Spectroscopy of SDSS-selected Blue Early-type Galaxies,  
+&nbsp;&nbsp;&nbsp;Lee, J. H., <u>Hwang, H. S.</u>, Lee, M. G., Lee, J. C., Matsuhara, H.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 719, 1946](http://ui.adsabs.harvard.edu/abs/2010ApJ...719.1946L)
 
-27. Herschel reveals a Tdust-unbiased selection of z~2 ultraluminous infared galaxies,
+21\. Distribution of Satellite Galaxies in High Redshift Groups,  
+&nbsp;&nbsp;&nbsp;Wang, Y., Park, C., <u>Hwang, H. S.</u>, Xuelei, C.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 718, 762](http://ui.adsabs.harvard.edu/abs/2010ApJ...718..762W)
 
-&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., <u>Hwang, H. S.</u>, HerMES team,
+20\. Herschel Unveils a Puzzling Uniformity of Distant Dusty Galaxies,  
+&nbsp;&nbsp;&nbsp;Elbaz, D., <u>Hwang, H. S.</u>, Magnelli, B., Daddi, E., Aussel, H., PEP team, HerMES team,  
+&nbsp;&nbsp;&nbsp;[2010, A&A, 518, L29](http://ui.adsabs.harvard.edu/abs/2010A%26A...518L..29E)
 
-&nbsp;&nbsp;&nbsp;2010, MNRAS, 409, 22
+19\. A Multi-wavelength View of the Star Formation Activity at z~3,   
+&nbsp;&nbsp;&nbsp;Magdis, G.E., Elbaz, D., Daddi, E., Morrison, G.E., Dickinson, M., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 714, 1740](http://ui.adsabs.harvard.edu/abs/2010ApJ...714.1740M)
 
+18\. Detection of a Large-Scale Structure of Intracluster Globular Clusters in the Virgo Cluster,  
+&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2010, Sci, 328, 334](http://ui.adsabs.harvard.edu/abs/2010Sci...328..334L)
 
-26. Environmental Dependence of Local Luminous Infrared Galaxies,
+17\. The Globular Cluster System of the Virgo Giant Elliptical Galaxy NGC 4636: II. Kinematics of the Globular Cluster System,  
+&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., <u>Hwang, H. S.</u>, Arimoto, N., Tamura, N., Onodera, M.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 709, 1083](http://ui.adsabs.harvard.edu/abs/2010ApJ...709.1083L)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Elbaz, D., Lee, J. C., Jeong, W.-S., Park, C., Lee, M. G., Lee, H. M.,
-
-&nbsp;&nbsp;&nbsp;2010, A&A, 522, 33
-
-
-25. A First Glimpse into the FIR properties of high-z UV-selected Galaxies;
-
-      Herschel/PACS observations of z~3 LBGs,
-
-&nbsp;&nbsp;&nbsp;Magdis, G. E., Elbaz, D., <u>Hwang, H. S.</u>, Daddi, E., Rigopoulou, D., PEP team,
-
-&nbsp;&nbsp;&nbsp;2010, ApJL, 720, 185
-
-
-24. Unveiling Far-Infrared Counterparts of Bright Submillimeter Galaxies Using PACS Imaging,
-
-&nbsp;&nbsp;&nbsp;Dannerbauer, H., Daddi, E., Morrison, G. E., PEP team (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2010, ApJL, 720, 144
-
-
-23. Orbital Dependence of Galaxy Properties in Satellite Systems of Galaxies,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C.,
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 720, 522
-
-
-22. AKARI Near-Infrared Spectroscopy of SDSS-selected Blue Early-type Galaxies,
-
-&nbsp;&nbsp;&nbsp;Lee, J. H., <u>Hwang, H. S.</u>, Lee, M. G., Lee, J. C., Matsuhara, H.,
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 719, 1946
-
-
-21. Distribution of Satellite Galaxies in High Redshift Groups,
-
-&nbsp;&nbsp;&nbsp;Wang, Y., Park, C., <u>Hwang, H. S.</u>, Xuelei, C.,
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 718, 762
-
-
-20. Herschel Unveils a Puzzling Uniformity of Distant Dusty Galaxies,
-
-&nbsp;&nbsp;&nbsp;Elbaz, D., <u>Hwang, H. S.</u>, Magnelli, B., Daddi, E., Aussel, H., PEP team, HerMES team,
-
-&nbsp;&nbsp;&nbsp;2010, A&A, 518, L29
-
-
-19. A Multi-wavelength View of the Star Formation Activity at z~3,
-
-&nbsp;&nbsp;&nbsp;Magdis, G.E., Elbaz, D., Daddi, E., Morrison, G.E., Dickinson, M., et al. (<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 714, 1740
-
-
-18. Detection of a Large-Scale Structure of Intracluster Globular Clusters in the Virgo Cluster,
-
-&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., <u>Hwang, H. S.</u>,
-
-&nbsp;&nbsp;&nbsp;2010, Sci, 328, 334
-
-
-17. The Globular Cluster System of the Virgo Giant Elliptical Galaxy NGC 4636:
-
-      II. Kinematics of the Globular Cluster System,
-
-&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., <u>Hwang, H. S.</u>, Arimoto, N., Tamura, N., Onodera, M.,
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 709, 1083
-
-
-16. The Globular Cluster System of the Virgo Giant Elliptical Galaxy NGC 4636:
-
-      I. Subaru/FOCAS Spectroscopy and Database,
-
-&nbsp;&nbsp;&nbsp;Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>, Arimoto, N., Tamura, N., Onodera, M.,
-
-&nbsp;&nbsp;&nbsp;2010, ApJ, 709, 377
+16\. The Globular Cluster System of the Virgo Giant Elliptical Galaxy NGC 4636: I. Subaru/FOCAS Spectroscopy and Database,  
+&nbsp;&nbsp;&nbsp;Park, H. S., Lee, M. G., <u>Hwang, H. S.</u>, Arimoto, N., Tamura, N., Onodera, M.,  
+&nbsp;&nbsp;&nbsp;[2010, ApJ, 709, 377](http://ui.adsabs.harvard.edu/abs/2010ApJ...709..377P)
 
 
 ### 2009:
 
-15. Galaxy Activity in Merging Binary Galaxy Clusters,
+15\. Galaxy Activity in Merging Binary Galaxy Clusters,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,  
+&nbsp;&nbsp;&nbsp;[2009, MNRAS, 397, 2111](http://ui.adsabs.harvard.edu/abs/2009MNRAS.397.2111H)
 
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,
+14\. Evidence for Morphology and Luminosity Transformation of Galaxies at High Redshifts,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C.,  
+&nbsp;&nbsp;&nbsp;[2009, ApJ, 700, 791](http://ui.adsabs.harvard.edu/abs/2009ApJ...700..791H)
 
-&nbsp;&nbsp;&nbsp;2009, MNRAS, 397, 2111
+13\. Interactions of Galaxies in the Galaxy Cluster Environment,  
+&nbsp;&nbsp;&nbsp;Park, C., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2009, ApJ, 699, 1595](http://ui.adsabs.harvard.edu/abs/2009ApJ...699.1595P)
 
-
-14. Evidence for Morphology and Luminosity Transformation of Galaxies at High Redshifts,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Park, C.,
-
-&nbsp;&nbsp;&nbsp;2009, ApJ, 700, 791
-
-
-13. Interactions of Galaxies in the Galaxy Cluster Environment,
-
-&nbsp;&nbsp;&nbsp;Park, C., <u>Hwang, H. S.</u>,
-
-&nbsp;&nbsp;&nbsp;2009, ApJ, 699, 1595
-
-
-12. The MIR View of Red Sequence Galaxies in Abell 2218 with AKARI,
-
-&nbsp;&nbsp;&nbsp;Ko, J., Im, M., Lee, H. M., Lee, M. G., Hopwood, R. H., Serjeant, S., Smail, I., <u>Hwang, H. S.</u>, et al.,
-
-&nbsp;&nbsp;&nbsp;2009, ApJL, 695, 198
+12\. The MIR View of Red Sequence Galaxies in Abell 2218 with AKARI,  
+&nbsp;&nbsp;&nbsp;Ko, J., Im, M., Lee, H. M., Lee, M. G., Hopwood, R. H., Serjeant, S., Smail, I., <u>Hwang, H. S.</u>, et al.,  
+&nbsp;&nbsp;&nbsp;[2009, ApJL, 695, 198](http://ui.adsabs.harvard.edu/abs/2009ApJ...695L.198K)
 
 ### 2008:
 
-11. Washington CCD Photometry of the Globular Cluster System of the Giant Elliptical Galaxy M60
+11\. Washington CCD Photometry of the Globular Cluster System of the Giant Elliptical Galaxy M60 in Virgo,  
+&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., Kim, E., <u>Hwang, H. S.</u>, Kim, S. C., Geisler, D.,  
+&nbsp;&nbsp;&nbsp;[2008, ApJ, 682, 135](http://ui.adsabs.harvard.edu/abs/2008ApJ...682..135L)
 
-      in Virgo,
+10\. Galaxy Orbits for Galaxy Clusters in Sloan Digital Sky Survey and 2dF Galaxy Redshift Survey,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,  
+&nbsp;&nbsp;&nbsp;[2008, ApJ, 676, 218](http://ui.adsabs.harvard.edu/abs/2008ApJ...676..218H)
 
-&nbsp;&nbsp;&nbsp;Lee, M. G., Park, H. S., Kim, E., <u>Hwang, H. S.</u>, Kim, S. C., Geisler, D.,
+9\. Wide-Field Survey of Globular Clusters in M31. II. Kinematics of the Globular Cluster System,  
+&nbsp;&nbsp;&nbsp;Lee, M. G., <u>Hwang, H. S.</u>, Kim, S. C., Park, H. S., Geisler, D., Sarajedini, A., & Harris, W.E.,  
+&nbsp;&nbsp;&nbsp;[2008, ApJ, 674, 886](http://ui.adsabs.harvard.edu/abs/2008ApJ...674..886L)
 
-&nbsp;&nbsp;&nbsp;2008, ApJ, 682, 135
+8\. The Globular Cluster System of M60 (NGC 4649). II. Kinematics of the Globular Cluster System,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G., Park, H. S., Kim, S. C., Park, J.-H., Sohn, Y.-J., Lee, S.-G., et al.,  
+&nbsp;&nbsp;&nbsp;[2008, ApJ, 674, 869](http://ui.adsabs.harvard.edu/abs/2008ApJ...674..869H)
 
-
-10. Galaxy Orbits for Galaxy Clusters in Sloan Digital Sky Survey and 2dF Galaxy Redshift Survey,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,
-
-&nbsp;&nbsp;&nbsp;2008, ApJ, 676, 218
-
-
-  9. Wide-Field Survey of Globular Clusters in M31. II. Kinematics of the Globular Cluster System,
-
-&nbsp;&nbsp;&nbsp;Lee, M. G., <u>Hwang, H. S.</u>, Kim, S. C., Park, H. S., Geisler, D., Sarajedini, A., & Harris, W.E.,
-
-&nbsp;&nbsp;&nbsp;2008, ApJ, 674, 886
-
-
-  8. The Globular Cluster System of M60 (NGC 4649). II. Kinematics of the Globular Cluster System,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G., Park, H. S., Kim, S. C., Park, J.-H., Sohn, Y.-J., Lee, S.-G., et al.,
-
-&nbsp;&nbsp;&nbsp;2008, ApJ, 674, 869
-
-
-  7. The Globular Cluster System of M60 (NGC 4649). I. CFHT MOS Spectroscopy and Database,
-
-&nbsp;&nbsp;&nbsp;Lee, M. G., <u>Hwang, H. S.</u>, Park, H. S., Park, J.-H., Kim, S. C., Sohn, Y.-J., Lee, S.-G., et al.,
-
-&nbsp;&nbsp;&nbsp;2008, ApJ, 674, 857
+7\. The Globular Cluster System of M60 (NGC 4649). I. CFHT MOS Spectroscopy and Database,  
+&nbsp;&nbsp;&nbsp;Lee, M. G., <u>Hwang, H. S.</u>, Park, H. S., Park, J.-H., Kim, S. C., Sohn, Y.-J., Lee, S.-G., et al.,  
+&nbsp;&nbsp;&nbsp;[2008, ApJ, 674, 857](http://ui.adsabs.harvard.edu/abs/2008ApJ...674..857L)
 
 ### 2007:
 
- 6. Wide-Field Survey of Globular Clusters in M31. I. A Catalog of New Clusters,
+6\. Wide-Field Survey of Globular Clusters in M31. I. A Catalog of New Clusters,  
+&nbsp;&nbsp;&nbsp;Kim, S. C., Lee, M. G., Geisler, D., Sarajedini, A., Park, H. S., <u>Hwang, H. S.</u>, Harris, W. E., et al.,  
+&nbsp;&nbsp;&nbsp;[2007, AJ, 134, 706](http://ui.adsabs.harvard.edu/abs/2007AJ....134..706K)
 
-&nbsp;&nbsp;&nbsp;Kim, S. C., Lee, M. G., Geisler, D., Sarajedini, A., Park, H. S., <u>Hwang, H. S.</u>, Harris, W. E., et al.,
+5\. The Connection between Star-forming Galaxies, AGN host galaxies, and Early-Type Galaxies in the SDSS,  
+&nbsp;&nbsp;&nbsp;Lee, J. H., Lee, M. G., Kim, T., <u>Hwang, H. S.</u>, Park, C., Choi, Y.-Y.,  
+&nbsp;&nbsp;&nbsp;[2007, ApJ, 663, L69](http://ui.adsabs.harvard.edu/abs/2007ApJ...663L..69L)
 
-&nbsp;&nbsp;&nbsp;2007, AJ, 134, 706
+4\. Searching for Rotating Galaxy Clusters in SDSS and 2dFGRS,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,  
+&nbsp;&nbsp;&nbsp;[2007, ApJ, 662, 236](http://ui.adsabs.harvard.edu/abs/2007ApJ...662..236H)
 
+3\. The ultraluminous and hyperluminous infrared galaxies in the Sloan Digital Sky Survey, 2dF Galaxy Redshift Survey and 6dF Galaxy Survey,  
+&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Serjeant, S., Lee, M. G., Lee, K. H., White, G. J.,  
+&nbsp;&nbsp;&nbsp;[2007, MNRAS, 375, 115](http://ui.adsabs.harvard.edu/abs/2007MNRAS.375..115H)
 
-  5. The Connection between Star-forming Galaxies, AGN host galaxies, and Early-Type Galaxies
-
-       in the SDSS,
-
-&nbsp;&nbsp;&nbsp;Lee, J. H., Lee, M. G., Kim, T., <u>Hwang, H. S.</u>, Park, C., Choi, Y.-Y.,
-
-&nbsp;&nbsp;&nbsp;2007, ApJ, 663, L69
-
-
-  4. Searching for Rotating Galaxy Clusters in SDSS and 2dFGRS,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Lee, M. G.,
-
-&nbsp;&nbsp;&nbsp;2007, ApJ, 662, 236
-
-
-  3. The ultraluminous and hyperluminous infrared galaxies in the Sloan Digital Sky Survey, 2dF Galaxy
-
-      Redshift Survey and 6dF Galaxy Survey,
-
-&nbsp;&nbsp;&nbsp;<u>Hwang, H. S.</u>, Serjeant, S., Lee, M. G., Lee, K. H., White, G. J.,
-
-&nbsp;&nbsp;&nbsp;2007, MNRAS, 375, 115
-
-
-  2. Detection of CFIRB with AKARI/FIS Deep Observations,
-
-&nbsp;&nbsp;&nbsp;Jeong, W.-S., Pearson, C. P., Lee, H. M., Matsuura, S., Kawada, M., et al.(<u>Hwang, H. S.</u>),
-
-&nbsp;&nbsp;&nbsp;2007, Adv. Space Res., 40, 600
+2\. Detection of CFIRB with AKARI/FIS Deep Observations,  
+&nbsp;&nbsp;&nbsp;Jeong, W.-S., Pearson, C. P., Lee, H. M., Matsuura, S., Kawada, M., et al.(<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2007, Adv. Space Res., 40, 600](http://ui.adsabs.harvard.edu/abs/2007AdSpR..40..600J)
 
 
 ### 2006:
 
-1. The Nature of Blue Early-Type Galaxies in the GOODS Fields,
-
-&nbsp;&nbsp;&nbsp;Lee, J. H., Lee, M. G., <u>Hwang, H. S.</u>,
-
-&nbsp;&nbsp;&nbsp;2006, ApJ, 650, 148
+1\. The Nature of Blue Early-Type Galaxies in the GOODS Fields,  
+&nbsp;&nbsp;&nbsp;Lee, J. H., Lee, M. G., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2006, ApJ, 650, 148](http://ui.adsabs.harvard.edu/abs/2006ApJ...650..148L)
 
