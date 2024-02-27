@@ -2,8 +2,8 @@
 layout: page
 permalink: /publicoutreach/
 title: Public Outreach / 대중 과학 활동
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 ---
 
 **Audio/Video Clips**

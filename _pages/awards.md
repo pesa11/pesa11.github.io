@@ -2,8 +2,8 @@
 layout: page
 permalink: /awards/
 title: Awards / 수상 내역
-nav: true
-nav_order: 5
+nav: false
+nav_order: 
 ---
 * [Elected Member of Young Korean Academy of Science and Technology (Y-KAST, 한국차세대과학기술한림원 회원 선출) (Dec. 9, 2020) [Korean]](http://m.dongascience.donga.com/news/view/42212)
 
