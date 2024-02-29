@@ -8,7 +8,7 @@ nav_order:
 
 **Articles (Korean)**
 
-* [우주 개척, 어떻게 해야할까?](https://kast.or.kr/kr/space/publication.php?bbs_data=aWR4PTIwMzA0JnN0YXJ0UGFnZT0xMiZsaXN0Tm89MzU3JnRhYmxlPWNzX2Jic19kYXRhJmNvZGU9bW9rJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&bgu=view&cate=)  (2022. 12. 20): 한국과학기술한림원 차세대 리포트 주제 글.
+* [우주 개척, 어떻게 해야할까?](https://kast.or.kr/kr/space/publication.php?bbs_data=aWR4PTIwMzA0JnN0YXJ0UGFnZT0xMiZsaXN0Tm89MzU3JnRhYmxlPWNzX2Jic19kYXRhJmNvZGU9bW9rJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&bgu=view&cate=)  (2022.12.20): 한국과학기술한림원 차세대 리포트 주제 글.
 
 * [우주에서 지구의 주소는 어떻게 될까?](http://astro.snu.ac.kr/~hhwang/Ziidok_CosmicAddress.pdf) (2020. 2. 4): 지독에 (http://ziidok.com) 쓴 첫번째 글..
 
