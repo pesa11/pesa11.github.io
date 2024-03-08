@@ -17,6 +17,8 @@ social: false # includes social icons at the bottom of the page
 ---
 Associate Professor,Astronomy Program, Department of Physics and Astronomy, Seoul National University
 
+Hello, World
+
 서울대학교 물리천문학부 천문학전공 부교수
 * Email : galaxy79@snu.ac.kr
 
