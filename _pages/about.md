@@ -6,7 +6,7 @@ subtitle: Soojin Kim
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: z10-03-김수진-10-3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -15,52 +15,33 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Associate Professor,Astronomy Program, Department of Physics and Astronomy, Seoul National University
+Integrated MS/PhD Graduate student, Astronomy Program, Department of Physics and Astronomy, Seoul National University
 
-Hello, World
-
-서울대학교 물리천문학부 천문학전공 부교수
-* Email : galaxy79@snu.ac.kr
+* Email : pesa11@snu.ac.kr
 
 * Address: Astronomy Program, Department of Physics and Astronomy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
 
-* Office: Rm. 209B at Building #19
+* Office: Rm. 212B at Building #19
 
-* Telephone : +82-2-880-8150
-
-* Fax : +82-2-887-1435
-
-[Curriculum Vita](http://astro.snu.ac.kr/~hhwang/cvpubref_HWANG.pdf)
+[ExgalCos Team Homepage](https://exgalcos.github.io/)
 
 <br/>
 
-## Academic Positions:
-* **Associate Professor, Seoul National University/서울대학교, Korea**   
-  2021.03 - Present
-
-* **Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea**   
-  2018.12 - 2021.02
-  
-* **Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea**  
-  2014.09 - 2018.12
-
-* **Postdoc, Harvard-Smithsonian Center for Astrophysics/하버드-스미소니언 천체물리연구소, USA**  
-  2011-10 - 2014.08
-
-* **Postdoc, CEA Saclay/싸이에이 사클레이 천체물리연구소, France**  
-  2009.05-2011.09
-
-* **Postdoc, KIAS/고등과학원, Korea**  
-  2007.09 - 2009.04
+## Research Interests:
+* Dark Matter
+* Weak Gravitational Lensing
+* Observational Cosmology
+* Large-scale structure
+* Galaxy evolution
 
 <br/>
 
 ## Education:
-* **Ph.D. in Astronomy, Dept. of Physics and Astronomy, Seoul National University/서울대학교, Korea**  
-  2007.08
+* **M.S. in Astronomy, Dept. of Physics and Astronomy, Seoul National University**  
+  2024.09 - 2026.08 (Expected)
 
-* **B.S. in Physics, Dept. of Physics, KAIST/카이스트, Korea**  
-  2001.02
+* **B.S. in Astronomy and Physics, Seoul National University (double major)** 
+  2024.02
 
 <br/>
 
