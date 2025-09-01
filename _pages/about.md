@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 황호성
+subtitle: Soojin Kim
 
 profile:
   align: right
