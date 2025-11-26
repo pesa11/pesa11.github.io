@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soojin Kim | Observational Cosmology</title>
+    
+    <!-- React & ReactDOM -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    
+    <!-- Babel -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a; /* Slate 900 */
+            color: #e2e8f0; /* Slate 200 */
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Playfair Display', serif;
+        }
+        .glass-panel {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .star-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+            overflow: hidden;
+        }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0f172a;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #475569;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #64748b;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        // --- Inline Icon Components (Fixes React Error #130) ---
+        // These replace the external Lucide dependency to ensure stability.
+        
+        const Icon = ({ children, size = 24, className = "" }) => (
+            <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                width={size} 
+                height={size} 
+                viewBox="0 0 24 24" 
+                fill="none" 
+                stroke="currentColor" 
+                strokeWidth="2" 
+                strokeLinecap="round" 
+                strokeLinejoin="round" 
+                className={className}
+            >
+                {children}
+            </svg>
+        );
+
+        const Mail = (props) => (
+            <Icon {...props}>
+                <rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+            </Icon>
+        );
+
+        const MapPin = (props) => (
+            <Icon {...props}>
+                <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>
+            </Icon>
+        );
+
+        const ExternalLink = (props) => (
+            <Icon {...props}>
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" x2="21" y1="14" y2="3"/>
+            </Icon>
+        );
+
+        const BookOpen = (props) => (
+            <Icon {...props}>
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+            </Icon>
+        );
+
+        const GraduationCap = (props) => (
+            <Icon {...props}>
+                <path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/>
+            </Icon>
+        );
+
+        const Award = (props) => (
+            <Icon {...props}>
+                <circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/>
+            </Icon>
+        );
+
+        const Telescope = (props) => (
+            <Icon {...props}>
+                <path d="m10.065 12.493-6.18 1.318a.934.934 0 0 1-1.108-.702l-.537-2.526a.934.934 0 0 1 .702-1.108l6.18-1.318a.934.934 0 0 1 1.108.702l.537 2.526a.934.934 0 0 1-.702 1.108Z"/><path d="m13.485 16.15-4.233-19.863a.934.934 0 0 1 1.108-.702l4.233 19.863a.934.934 0 0 1-1.108.702Z"/><path d="M14.5 16.5 18 22"/><path d="M8.5 16.5 5 22"/><path d="M11.5 16.5V22"/>
+            </Icon>
+        );
+
+        const Users = (props) => (
+            <Icon {...props}>
+                <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </Icon>
+        );
+
+        const FileText = (props) => (
+            <Icon {...props}>
+                <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><line x1="16" x2="8" y1="13" y2="13"/><line x1="16" x2="8" y1="17" y2="17"/><line x1="10" x2="8" y1="9" y2="9"/>
+            </Icon>
+        );
+
+        const Menu = (props) => (
+            <Icon {...props}>
+                <line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/>
+            </Icon>
+        );
+
+        const X = (props) => (
+            <Icon {...props}>
+                <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+            </Icon>
+        );
+
+        const ChevronRight = (props) => (
+            <Icon {...props}>
+                <path d="m9 18 6-6-6-6"/>
+            </Icon>
+        );
+
+
+        // --- Data based on CV ---
+        const profile = {
+            name: "Soojin Kim",
+            title: "M.S. Student in Astronomy",
+            affiliation: "Seoul National University",
+            email: "pesall@snu.ac.kr",
+            email2: "soojinkim0211@gmail.com",
+            location: "Seoul, Republic of Korea",
+            interests: [
+                "Observational Cosmology",
+                "Dark Matter / Dark Energy",
+                "Weak Gravitational Lensing",
+                "Galaxy Clusters",
+                "Large Scale Structures",
+                "Survey Science"
+            ]
+        };
+
+        const education = [
+            {
+                degree: "M.S. in Astronomy",
+                institution: "Seoul National University",
+                period: "Sep 2024 - Aug 2026 (Planned)",
+                details: []
+            },
+            {
+                degree: "B.S. in Astronomy and Physics",
+                institution: "Seoul National University",
+                period: "Mar 2020 - Feb 2024",
+                details: [
+                    "Summa Cum Laude",
+                    "Double Major",
+                    "Total GPA: 4.14/4.3",
+                    "Astronomy GPA: 4.27/4.3"
+                ]
+            }
+        ];
+
+        const publications = [
+            {
+                title: "Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster",
+                authors: "Soojin Kim*, Kim HyeongHan, Wonki Lee, Jong In Park, Myungkook James Jee, Ho Seong Hwang",
+                journal: "Under review at Astrophysical Journal",
+                link: "https://arxiv.org/abs/2511.02323",
+                id: "arXiv: 2511.02323"
+            },
+            {
+                title: "Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps",
+                authors: "Soojin Kim*, Ho Seong Hwang†, Niall Jeffrey",
+                journal: "Accepted for publication in Astrophysical Journal Supplement Series",
+                link: "https://arxiv.org/abs/2509.25836",
+                id: "arXiv: 2509.25836"
+            }
+        ];
+
+        const researchExperience = [
+            {
+                role: "Graduate Researcher",
+                lab: "Advisor: Prof. Ho Seong Hwang",
+                period: "Aug 2022 - Present",
+                institution: "Seoul National University",
+                points: [
+                    "PI for Gemini/GMOS proposal to measure velocities of galaxies in Abell 520.",
+                    "Quantitative comparison between weak-lensing convergence maps and galaxy distributions using Dark Energy Survey Year 3 data.",
+                    "Identified 22 candidates for 'Dark Structures' (dark matter-dominated regions)."
+                ]
+            },
+            {
+                role: "Researcher",
+                lab: "Advisor: Prof. Myungkook James Jee",
+                period: "Nov 2024 - Present",
+                institution: "Yonsei University",
+                points: [
+                    "Weak gravitational lensing analysis of galaxy cluster Abell 85 using Subaru Hyper Suprime-Cam data.",
+                    "Resolved weak-lensing signals from main cluster and substructures.",
+                    "Estimated merger mass ratio of 1:2."
+                ]
+            },
+            {
+                role: "Undergraduate Researcher",
+                lab: "Advisor: Prof. Sunghoon Jung",
+                period: "Mar 2023 - Jul 2023",
+                institution: "Seoul National University",
+                points: [
+                    "Simulated the gravitational lensing of gravitational waves by anisotropic lens distributions."
+                ]
+            }
+        ];
+
+        const awards = [
+            { title: "Dooeul Scholarship", issuer: "Dooeul Scholarship Foundation", date: "Mar 2021 - Feb 2024" },
+            { title: "Outstanding Graduate Award", issuer: "Korea Space Science Society", date: "Feb 2024" },
+            { title: "Hansung Nobel Sonjaehan Scholarship", issuer: "Hansung Sonjaehan Foundation", date: "Mar 2019 - Feb 2020" },
+            { title: "Silver Medal", issuer: "International Astronomy Olympiad (IAO)", date: "Nov 2017" }
+        ];
+
+        // --- Components ---
+
+        const Nav = () => {
+            const [isOpen, setIsOpen] = useState(false);
+            const links = [
+                { name: "Home", href: "#home" },
+                { name: "Research", href: "#research" },
+                { name: "Publications", href: "#publications" },
+                { name: "CV", href: "#cv" },
+                { name: "Contact", href: "#contact" },
+            ];
+
+            return (
+                <nav className="fixed w-full z-50 glass-panel border-b border-white/10">
+                    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+                        <div className="flex items-center justify-between h-16">
+                            <div className="flex-shrink-0">
+                                <span className="font-serif text-xl font-bold tracking-wider text-white">S. Kim</span>
+                            </div>
+                            <div className="hidden md:block">
+                                <div className="ml-10 flex items-baseline space-x-8">
+                                    {links.map((link) => (
+                                        <a
+                                            key={link.name}
+                                            href={link.href}
+                                            className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
+                                        >
+                                            {link.name}
+                                        </a>
+                                    ))}
+                                </div>
+                            </div>
+                            <div className="-mr-2 flex md:hidden">
+                                <button
+                                    onClick={() => setIsOpen(!isOpen)}
+                                    className="bg-slate-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-slate-700 focus:outline-none"
+                                >
+                                    {isOpen ? <X size={24} /> : <Menu size={24} />}
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    {/* Mobile menu */}
+                    {isOpen && (
+                        <div className="md:hidden glass-panel border-t border-white/10">
+                            <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+                                {links.map((link) => (
+                                    <a
+                                        key={link.name}
+                                        href={link.href}
+                                        onClick={() => setIsOpen(false)}
+                                        className="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                                    >
+                                        {link.name}
+                                    </a>
+                                ))}
+                            </div>
+                        </div>
+                    )}
+                </nav>
+            );
+        };
+
+        const Hero = () => {
+            return (
+                <section id="home" className="min-h-screen flex items-center justify-center pt-16 px-4">
+                    <div className="max-w-4xl mx-auto text-center space-y-8">
+                        <div className="inline-block p-1 rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 mb-4">
+                             <div className="bg-slate-900 rounded-full p-4">
+                                <Telescope size={48} className="text-indigo-300" />
+                             </div>
+                        </div>
+                        <h1 className="text-5xl md:text-7xl font-bold text-white tracking-tight mb-2">
+                            {profile.name}
+                        </h1>
+                        <p className="text-xl md:text-2xl text-indigo-200 font-light">
+                            {profile.title}
+                        </p>
+                        <div className="flex items-center justify-center space-x-2 text-gray-400">
+                            <MapPin size={16} />
+                            <span>{profile.affiliation}, {profile.location}</span>
+                        </div>
+                        
+                        <div className="max-w-2xl mx-auto mt-8">
+                            <p className="text-gray-300 leading-relaxed text-lg">
+                                Focusing on <span className="text-indigo-300 font-semibold">Observational Cosmology</span> and <span className="text-indigo-300 font-semibold">Dark Matter</span>. 
+                                Exploring the universe through Weak Gravitational Lensing and Large Scale Structures.
+                            </p>
+                        </div>
+
+                        <div className="flex flex-wrap justify-center gap-3 pt-6">
+                            {profile.interests.map((interest, index) => (
+                                <span key={index} className="px-4 py-2 rounded-full bg-indigo-900/30 border border-indigo-500/30 text-indigo-200 text-sm">
+                                    {interest}
+                                </span>
+                            ))}
+                        </div>
+
+                        <div className="pt-8 animate-bounce">
+                             <a href="#research" className="text-gray-500 hover:text-white transition-colors">
+                                <ChevronRight className="transform rotate-90 mx-auto" size={32} />
+                             </a>
+                        </div>
+                    </div>
+                </section>
+            );
+        };
+
+        const SectionTitle = ({ title, icon: Icon }) => (
+            <div className="flex items-center space-x-3 mb-8">
+                {Icon && <Icon className="text-indigo-400" size={28} />}
+                <h2 className="text-3xl font-bold text-white">{title}</h2>
+            </div>
+        );
+
+        const Research = () => {
+            return (
+                <section id="research" className="py-20 px-4 max-w-5xl mx-auto">
+                    <SectionTitle title="Research Experience" icon={Telescope} />
+                    <div className="space-y-8">
+                        {researchExperience.map((exp, idx) => (
+                            <div key={idx} className="glass-panel p-6 rounded-xl hover:bg-slate-800/50 transition-all duration-300 border-l-4 border-indigo-500">
+                                <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
+                                    <div>
+                                        <h3 className="text-xl font-bold text-white">{exp.role}</h3>
+                                        <p className="text-indigo-300">{exp.institution}</p>
+                                        <p className="text-sm text-gray-400 mt-1 italic">{exp.lab}</p>
+                                    </div>
+                                    <span className="text-sm text-gray-400 mt-2 md:mt-0 bg-slate-800 px-3 py-1 rounded-full border border-slate-700 h-fit">
+                                        {exp.period}
+                                    </span>
+                                </div>
+                                <ul className="space-y-2">
+                                    {exp.points.map((point, pIdx) => (
+                                        <li key={pIdx} className="flex items-start text-gray-300">
+                                            <span className="mr-2 mt-1.5 w-1.5 h-1.5 bg-indigo-500 rounded-full flex-shrink-0"></span>
+                                            <span className="leading-relaxed">{point}</span>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+            );
+        };
+
+        const Publications = () => {
+            return (
+                <section id="publications" className="py-20 px-4 bg-slate-900/50">
+                    <div className="max-w-5xl mx-auto">
+                        <SectionTitle title="Publications" icon={FileText} />
+                        <div className="grid gap-6">
+                            {publications.map((pub, idx) => (
+                                <div key={idx} className="glass-panel p-6 rounded-xl group hover:border-indigo-500/50 transition-colors">
+                                    <div className="flex flex-col space-y-3">
+                                        <h3 className="text-lg font-bold text-white group-hover:text-indigo-300 transition-colors">
+                                            {pub.title}
+                                        </h3>
+                                        <p className="text-gray-400 text-sm">
+                                            {pub.authors}
+                                        </p>
+                                        <div className="flex flex-wrap items-center gap-4 text-sm">
+                                            <span className="text-emerald-400 font-medium">{pub.journal}</span>
+                                            {pub.link && (
+                                                <a 
+                                                    href={pub.link} 
+                                                    target="_blank" 
+                                                    rel="noreferrer"
+                                                    className="inline-flex items-center text-indigo-400 hover:text-indigo-300 underline"
+                                                >
+                                                    {pub.id} <ExternalLink size={14} className="ml-1" />
+                                                </a>
+                                            )}
+                                        </div>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+
+                        <div className="mt-12">
+                             <h3 className="text-xl font-bold text-white mb-6 flex items-center">
+                                <BookOpen size={24} className="mr-3 text-indigo-400" />
+                                Observation Proposals
+                             </h3>
+                             <div className="glass-panel p-6 rounded-xl border-l-4 border-emerald-500">
+                                <h4 className="text-lg font-bold text-white">Investigating the suspicious "DARK CORE" of Abell 520 galaxy cluster</h4>
+                                <p className="text-gray-400 text-sm mt-1">Soojin Kim (PI), Jeong Hwan Lee, Ho Seong Hwang, et al.</p>
+                                <p className="text-emerald-400 text-sm mt-2">Submitted to Gemini 2025B Fast Turnaround Program (GMOS-N), Sep 2025</p>
+                             </div>
+                        </div>
+                    </div>
+                </section>
+            );
+        };
+
+        const CV = () => {
+            return (
+                <section id="cv" className="py-20 px-4 max-w-5xl mx-auto">
+                    <SectionTitle title="Curriculum Vitae" icon={GraduationCap} />
+                    
+                    <div className="grid md:grid-cols-2 gap-8">
+                        {/* Education */}
+                        <div>
+                            <h3 className="text-xl font-semibold text-white mb-6 border-b border-gray-700 pb-2">Education</h3>
+                            <div className="space-y-8">
+                                {education.map((edu, idx) => (
+                                    <div key={idx} className="relative pl-6 border-l border-gray-700">
+                                        <div className="absolute -left-1.5 top-1.5 w-3 h-3 rounded-full bg-indigo-500"></div>
+                                        <h4 className="text-lg font-bold text-white">{edu.institution}</h4>
+                                        <p className="text-indigo-300">{edu.degree}</p>
+                                        <p className="text-sm text-gray-500 mb-2">{edu.period}</p>
+                                        <ul className="text-sm text-gray-400 space-y-1">
+                                            {edu.details.map((detail, dIdx) => (
+                                                <li key={dIdx}>• {detail}</li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
+                        {/* Awards */}
+                        <div>
+                            <h3 className="text-xl font-semibold text-white mb-6 border-b border-gray-700 pb-2">Honors & Awards</h3>
+                            <div className="space-y-4">
+                                {awards.map((award, idx) => (
+                                    <div key={idx} className="flex items-start">
+                                        <Award className="text-yellow-500 mt-1 mr-3 flex-shrink-0" size={18} />
+                                        <div>
+                                            <h4 className="text-white font-medium">{award.title}</h4>
+                                            <p className="text-sm text-gray-400">{award.issuer}</p>
+                                            <p className="text-xs text-gray-500">{award.date}</p>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Community & Teaching */}
+                    <div className="mt-12">
+                         <h3 className="text-xl font-semibold text-white mb-6 border-b border-gray-700 pb-2">Teaching & Community</h3>
+                         <div className="grid md:grid-cols-2 gap-6">
+                            <div className="glass-panel p-5 rounded-lg">
+                                <h4 className="text-white font-bold flex items-center mb-3">
+                                    <Users className="mr-2 text-indigo-400" size={18} /> 
+                                    Leadership
+                                </h4>
+                                <ul className="space-y-3 text-sm text-gray-300">
+                                    <li><strong className="text-white">Vice Representative</strong>, Astronomy Graduate Students (2025-Present)</li>
+                                    <li><strong className="text-white">Leader of Team Korea</strong>, Int'l Olympiad on Astronomy and Astrophysics (2024)</li>
+                                    <li><strong className="text-white">Events Coordinator</strong>, Physics & Astronomy Student Council (2022)</li>
+                                </ul>
+                            </div>
+                            <div className="glass-panel p-5 rounded-lg">
+                                <h4 className="text-white font-bold flex items-center mb-3">
+                                    <BookOpen className="mr-2 text-indigo-400" size={18} /> 
+                                    Instruction
+                                </h4>
+                                <ul className="space-y-3 text-sm text-gray-300">
+                                    <li><strong className="text-white">Teaching Assistant</strong>, SNU (Galaxies and Universe, Astrostatistics)</li>
+                                    <li><strong className="text-white">Instructor</strong>, Korea Astronomy Olympiad (2023-2025)</li>
+                                    <li><strong className="text-white">Mentor</strong>, Summer Science Outreach Camp</li>
+                                </ul>
+                            </div>
+                         </div>
+                    </div>
+                </section>
+            );
+        };
+
+        const Contact = () => {
+            return (
+                <section id="contact" className="py-20 px-4 bg-gradient-to-t from-black to-slate-900">
+                    <div className="max-w-3xl mx-auto text-center">
+                        <SectionTitle title="Get in Touch" />
+                        <p className="text-gray-400 mb-10 text-lg">
+                            I am always open to discussing collaboration opportunities, cosmology research, or educational outreach.
+                        </p>
+                        
+                        <div className="flex flex-col md:flex-row justify-center gap-6">
+                            <a href={`mailto:${profile.email}`} className="glass-panel p-6 rounded-xl flex items-center justify-center space-x-4 hover:bg-indigo-900/30 transition-colors group">
+                                <div className="bg-indigo-500/20 p-3 rounded-full group-hover:bg-indigo-500/40 transition-colors">
+                                    <Mail className="text-indigo-400 group-hover:text-white" size={24} />
+                                </div>
+                                <div className="text-left">
+                                    <p className="text-xs text-gray-500 uppercase tracking-wider">University Email</p>
+                                    <p className="text-white font-medium">{profile.email}</p>
+                                </div>
+                            </a>
+
+                            <a href={`mailto:${profile.email2}`} className="glass-panel p-6 rounded-xl flex items-center justify-center space-x-4 hover:bg-indigo-900/30 transition-colors group">
+                                <div className="bg-indigo-500/20 p-3 rounded-full group-hover:bg-indigo-500/40 transition-colors">
+                                    <Mail className="text-indigo-400 group-hover:text-white" size={24} />
+                                </div>
+                                <div className="text-left">
+                                    <p className="text-xs text-gray-500 uppercase tracking-wider">Personal Email</p>
+                                    <p className="text-white font-medium">{profile.email2}</p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <footer className="mt-20 pt-8 border-t border-gray-800 text-gray-600 text-sm">
+                            <p>&copy; {new Date().getFullYear()} Soojin Kim. All rights reserved.</p>
+                            <p className="mt-2">Seoul National University, Department of Astronomy</p>
+                        </footer>
+                    </div>
+                </section>
+            );
+        };
+
+        const StarField = () => {
+            // Simple visual effect for background stars
+            const [stars, setStars] = useState([]);
+            
+            useEffect(() => {
+                const count = 100;
+                const newStars = [];
+                for (let i = 0; i < count; i++) {
+                    newStars.push({
+                        left: Math.random() * 100,
+                        top: Math.random() * 100,
+                        size: Math.random() * 2 + 1,
+                        opacity: Math.random() * 0.7 + 0.3,
+                        delay: Math.random() * 5
+                    });
+                }
+                setStars(newStars);
+            }, []);
+
+            return (
+                <div className="star-bg">
+                    {stars.map((star, i) => (
+                        <div 
+                            key={i}
+                            className="absolute rounded-full bg-white animate-pulse"
+                            style={{
+                                left: `${star.left}%`,
+                                top: `${star.top}%`,
+                                width: `${star.size}px`,
+                                height: `${star.size}px`,
+                                opacity: star.opacity,
+                                animationDuration: `${3 + star.delay}s`
+                            }}
+                        />
+                    ))}
+                </div>
+            );
+        };
+
+        const App = () => {
+            return (
+                <div className="relative min-h-screen">
+                    <StarField />
+                    <Nav />
+                    <main>
+                        <Hero />
+                        <Research />
+                        <Publications />
+                        <CV />
+                        <Contact />
+                    </main>
+                </div>
+            );
+        };
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
